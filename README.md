@@ -46,3 +46,8 @@ Make the issue like this:
 2. Make a branch to work on your modification
 3. Get your code reviewed
 4. Commit your code!
+
+## Licensing
+
+MIT License 2020©
+
