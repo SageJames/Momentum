@@ -51,7 +51,7 @@ Make the issue like this:
 ## Image
 
 ![Demo](
-Screenshot_20201209-161338.png =100x20)
+Screenshot_20201209-161338(1).png)
 
 ## Licensing
 
