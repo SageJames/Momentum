@@ -34,3 +34,11 @@ This a strange log. You can only write in it but never access it. This is a plac
 3. Cd into the folder and run NPM init
 4. Then run Expo start
 
+## Troubleshooting and Support
+Create an [Issue](https://github.com/SageJames/Momentum/issues).   
+Make the issue like this:
+* Issue title
+* Description of issue
+* How you discovered it
+* If you can fix it or not
+
