@@ -42,3 +42,9 @@ Make the issue like this:
 * How you discovered it
 * If you can fix it or not
 
+## How to Contribute
+
+1. Create a pull request
+2. Make a branch to work on your modification
+3. Get your code reviewed
+4. Commit your code!
