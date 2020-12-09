@@ -10,8 +10,6 @@ As a developer, I am used to being inside for long periods of time. But that's n
 I want to implement some of the things I was learning for my philosophy class into a application. By taking family walks and Performing exercises they are within the application, users can improve the lives of not only themselves, but the people around them as well.
 
 
-
-
 ## How to use this application
 
 ### :house: Home
@@ -25,7 +23,7 @@ This a strange log. You can only write in it but never access it. This is a plac
 ## Use the Application
 
 ### User
-1. Download Expo of the App Store ofr Play Store.
+1. Download Expo of the App Store or Play Store.
 2. Click the [link](https://expo.io/@sagejames/projects/Momentum) to access the application.
 
 ### Developers
