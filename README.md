@@ -22,7 +22,7 @@ This a strange log. You can only write in it but never access it. This is a plac
 
 ## Use the Application
 
-### User
+### Users
 1. Download Expo of the App Store or Play Store.
 2. Click the [link](https://expo.io/@sagejames/projects/Momentum) to access the application.
 
