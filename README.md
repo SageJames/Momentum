@@ -2,12 +2,12 @@
 
 ## Introduction
 
-As a developer, I am used to being inside for long periods of time. But that's not the case for most people. Before covid-19 many people have lives and were able to enjoy themselves. But with quarantine they have had to cut their experiences short and settle with staying at home. I thought about this for a long time and decided to make an application to help people that may be facing stress while in quarantine. The momentum application was made for this sole purpose. Is an application that aims to provide users with a set of tools that will allow them to relax or improve themselves. They can take the array of items that I've offered in this application and use them to not only improve themselves but the people around them as well. By taking family walks and Performing exercises they are within the application, users can improve the lives of not only themselves, but the people around them as well.
-
-
+As a developer, I am used to being inside for long periods of time. But that's not the case for most people. Before covid-19 many people have lives and were able to enjoy themselves. But with quarantine they have had to cut their experiences short and settle with staying at home. I thought about this for a long time and decided to make an application to help people that may be facing stress while in quarantine. The momentum application was made for this sole purpose. Is an application that aims to provide users with a set of tools that will allow them to relax or improve themselves. They can take the array of items that I've offered in this application and use them to not only improve themselves but the people around them as well.
 ## Motivation
 
-I want to implement some of the things I was learning for my philosophy class into a application.
+I want to implement some of the things I was learning for my philosophy class into a application. By taking family walks and Performing exercises they are within the application, users can improve the lives of not only themselves, but the people around them as well.
+
+
 
 
 ## How to use this application
