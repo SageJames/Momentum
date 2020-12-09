@@ -2,7 +2,7 @@
 
 ## About
 
-This is a open source medatation application for people that are stress out from Covid-19 quarantine. This allows a user to access an array of information realted to meditation and relation without having to preform research, 
+This is a open source medatation application for people that are stress out from Covid-19 quarantine. This allows a user to access an array of information relaxation to meditation and relation without having to preform research, 
 
 ## Motivation
 
